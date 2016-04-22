@@ -5,7 +5,8 @@
 
 ### Description
 
-This file contains some simple examples Enumerated Types
+This file contains some simple examples Enumerated Types, to allow you to see how
+they are used and what they do.
 
 ### MIT License
 
